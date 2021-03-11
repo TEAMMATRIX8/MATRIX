@@ -4,7 +4,7 @@
 
 ✟︙ انسخ الكود وضعه في الترمنال ،
 ✟︙ الكود ،
-git clone https://github.com/TEAMMATRIX8/MATRIX.git && cd FAEDER  && chmod +x tg && chmod +x RUNFA.sh && chmod +x FA && ./RUNFA.sh install
+git clone https://github.com/TEAMMATRIX8/MATRIX.git && cd MATRIX  && chmod +x tg && chmod +x RUNFA.sh && chmod +x FA && ./RUNFA.sh install
          • ┉ • ┉ • ┉ • ┉ • ┉ • ┉ • ┉ •
 ✟︙راح يطلب المعلومات التاليه :- 
 ✟︙{ ايدي المطور  • معرف المطور • توكن البوت } ،
