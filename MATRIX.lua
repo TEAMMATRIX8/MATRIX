@@ -4668,7 +4668,7 @@ end
 if text:match("^source$") or text:match("^اصدار$") or text:match("^الاصدار$") or  text:match("^السورس$") or text:match("^سورس$") and faeder11(msg) then 
 local inline = {
 {{text="- قناة السورس ،",url="t.me/X04XX"},
-{text="- مبرمج السورس،",url="t.me/kkkkf"}},
+{text="- مبرمج السورس،",url="t.me/IZlZ7I"}},
 {{text="- اضغط هنا لتنصيب السورس ،",url="t.me/X04XX"}},
 {{text="- كروب المبرمجين ،",url="https://t.me/joinchat/UBrQRlQVP5MVuIN_"},
 {text="- شروحات السورس ،",url="t.me/Matrix_file"}}
@@ -4819,7 +4819,7 @@ if tonumber(result.id_) == tonumber(bot_owner) then
 faederdx(msg.chat_id_, msg.id_, 1, 'دي لك تريد اهين تاج راسك مطوري ؟ 🌚🙆', 1, 'md') 
 return false  
 end  
-if tonumber(result.id_) == tonumber(218385683) then 
+if tonumber(result.id_) == tonumber(114518657) then 
 faederdx(msg.chat_id_, msg.id_, 1, 'دي لك تريد اهين تاج راسك مبرمج السورس ؟ 🌚🙆', 1, 'md') 
 return false  
 end  
@@ -4847,7 +4847,7 @@ if tonumber(result.sender_user_id_) == tonumber(bot_owner) then
 faederdx(msg.chat_id_, msg.id_, 1, 'دي لك تريد اهين تاج راسك مطوري ؟ 🌚🙆', 1, 'md') 
 return false
 end 
-if tonumber(result.sender_user_id_) == tonumber(218385683) then  
+if tonumber(result.sender_user_id_) == tonumber(114518657) then  
 faederdx(msg.chat_id_, msg.id_, 1, 'دي لك تريد اهين تاج راسك مبرمج السورس ؟ 🌚🙆', 1, 'md') 
 return false
 end 
