@@ -4673,7 +4673,7 @@ local inline = {
 {{text="- كروب المبرمجين ،",url="https://t.me/joinchat/UBrQRlQVP5MVuIN_"},
 {text="- شروحات السورس ،",url="t.me/Matrix_file"}}
 }
-send_inline(msg.chat_id_,'≁⎠ مرحبا بك في سورس ماتركس┋FAEDER ،\n≁⎠ اضغط على الازرار بالاسفل ⬇️ ،',nil,inline) 
+send_inline(msg.chat_id_,'≁⎠ مرحبا بك في سورس ماتركس┋Matrix ،\n≁⎠ اضغط على الازرار بالاسفل ⬇️ ،',nil,inline) 
 return false 
 end
 --     By Developer Faeder     -- 
