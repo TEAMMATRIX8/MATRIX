@@ -4670,6 +4670,7 @@ local inline = {
 {{text="- قناة السورس ،",url="t.me/X04XX"},
 {text="- مبرمج السورس،",url="t.me/kkkkf"}},
 {{text="- اضغط هنا لتنصيب السورس ،",url="t.me/X04XX"}},
+{{text="- كروب المبرمجين ،",url="https://t.me/joinchat/UBrQRlQVP5MVuIN_"},
 {text="- شروحات السورس ،",url="t.me/Matrix_file"}}
 }
 send_inline(msg.chat_id_,'≁⎠ مرحبا بك في سورس ماتركس┋FAEDER ،\n≁⎠ اضغط على الازرار بالاسفل ⬇️ ،',nil,inline) 
